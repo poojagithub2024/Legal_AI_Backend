@@ -44,3 +44,5 @@ This project helps users understand legal documents by simplifying legal languag
 - User Interface
 - Dashboard
 - Visualization
+=======
+# Legal_AI_Backend
