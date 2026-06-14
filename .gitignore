@@ -5,3 +5,4 @@ venv/
 .venv/
 uploads/*
 legal_ai.db
+*.db
