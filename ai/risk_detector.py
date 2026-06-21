@@ -67,6 +67,9 @@ def detect_risk(text):
         elif penalty_amount >= 10000:
             risk_score += 1
 
+        print("Penalty Amount:", penalty_amount)
+        print("Risk Score:", risk_score)
+
     if risk_score >= 6:
         risk_level = "HIGH"
 
