@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.env
+venv/
+.venv/
+uploads/*
+legal_ai.db
+*.db
+node_modules/
+dist/
